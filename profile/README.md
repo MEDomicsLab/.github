@@ -19,7 +19,3 @@ While you can see the current team working under **Professor Martin Vallières**
 Come Check out our official website @ [medomicslab.com](https://medomicslab.com/).
 
 Cheers! 🍻
-
-
->[!NOTE]
-> Please note that the organization name on GitHub is in transition from `MEDomics-UdeS` to `MEDomicsLab`.
